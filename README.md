@@ -11,6 +11,9 @@
 > mkdir dirname
 
 #### 2.clone the repository
-> git clone 
+> git clone https://github.com/varalakshmigurram/todoapp.git
+
+> Open the HTML file in browser
 
 
+#THANK YOU
